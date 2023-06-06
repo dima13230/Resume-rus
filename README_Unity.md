@@ -6,7 +6,7 @@
 
 ## Unity разработчик
 
-Опыт работы 2 года (изучение движка, фриланс)
+Опыт работы 5 лет (изучение движка, фриланс, пет проекты)
 
 Примеры работ:
 
@@ -16,3 +16,20 @@
   * [Music Reactor](https://assetstore.unity.com/packages/tools/audio/music-reactor-109041)
   * [Unity Libre Fracture](https://gitlab.com/dima13230/unity-libre-fracture)
 
+Навыки:
+ * C#
+ * С++
+ * Unity Engine
+ * Godot Engine
+ * Git
+ * Windows
+ * Linux
+ * Visual Studio
+ * Visual Studio Code
+ * Vim (даже знаю, как из него выйти :) )
+ * Photoshop
+ * Krita
+ * Gimp
+ * ООП
+ * Владение английским - уровень В2 (Продвинутый пороговый)
+ * Написание документации в Gitbook
