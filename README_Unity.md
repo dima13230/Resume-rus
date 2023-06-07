@@ -29,7 +29,7 @@ dsenyushkin.dev@gmail.com
  * Linux
  * Visual Studio
  * Visual Studio Code
- * Vim (даже знаю, как из него выйти :) )
+ * Vim (даже знаю как из него выйти :) )
  * Photoshop
  * Krita
  * Gimp
